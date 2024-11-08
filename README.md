@@ -8,8 +8,8 @@ I'm a passionate developer focused on building efficient, scalable applications.
 **Tools**: Git, Vite, Tailwind, BootStrap, VSCode, PHPStorm, MySQL Workbench,etc.
 
 ### 🌟 Current Focus
-- Improving skills in **[Tech or Topic of Interest]**
-- Building **[Your Project/Goal, e.g., a robust e-commerce platform]**
+- Improving skills in **Smart Contract Using Solidity.**
+- Building **Voting System in blockchain for Hackathon.**
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/herojk64/) | [UpWork](https://www.upwork.com/freelancers/~01d362a701e1fc7717?mp_source=share)
