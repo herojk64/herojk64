@@ -12,7 +12,7 @@ I'm a passionate developer focused on building efficient, scalable applications.
 - Building **Voting System in blockchain for Hackathon.**
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/herojk64/) | [UpWork](https://www.upwork.com/freelancers/~01d362a701e1fc7717?mp_source=share)
+[LinkedIn](https://www.linkedin.com/in/herojk64/) | [UpWork](https://www.upwork.com/freelancers/~01d362a701e1fc7717?mp_source=share) | [FrontEndMentor](https://www.frontendmentor.io/profile/herojk64)
 
 ---
 
